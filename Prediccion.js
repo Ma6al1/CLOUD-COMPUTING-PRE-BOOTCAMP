@@ -36,3 +36,10 @@ function myBirthYearFunc(birthYearInput) {
   // El segundo console mostrara "num1: 10";
   // El tercero console mostrara "num2: 20";
   // Respuesta = Esta funcion recibe dos variables como parametros que seran usadas para realizar una suma, el ultimo console.log mostrara la suma de las dos variables
+
+  var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
+  movieLibrary.push("Zoro");
+  movieLibrary[1] = "Beetlejuice";
+  console.log(movieLibrary);
+  
+  
